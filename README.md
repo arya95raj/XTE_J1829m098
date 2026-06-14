@@ -1,1 +1,1 @@
-This repository contains three files of phase-resolved spectral parameters for Figure 4 of the paper entitled "Double cyclotron line or cyclotron line emission wing in accreting pulsar XTE J1829-098". The details of the columns are included in "column_details.txt",
+This repository contains three files of phase-resolved spectral parameters for Figure 4 of the paper entitled "Double cyclotron line or cyclotron line emission wing in accreting pulsar XTE J1829-098". The details of the columns are included in "column_details.txt".
