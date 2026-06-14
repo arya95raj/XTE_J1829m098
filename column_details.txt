@@ -1,4 +1,4 @@
-The column details for phase-resolved spectral parameters for Obs90401332002.txt, Obs31002008004.txt, and Obs31002008006.txt. Here, the error are provided as absolute values.
+The column details for phase-resolved spectral parameters for Obs90401332002.txt, Obs31002008004.txt, and Obs31002008006.txt. Here, the errors are provided as absolute values.
 
 1. Mid pulse phase value
 2. Pulse phase value width
