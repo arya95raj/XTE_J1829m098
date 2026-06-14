@@ -1,0 +1,31 @@
+The column details for phase-resolved spectral parameters for Obs90401332002.txt, Obs31002008004.txt, and Obs31002008006.txt. Here, the error are provided as absolute values.
+
+1. Mid pulse phase value
+2. Pulse phase value width
+3. log(flux) 
+4. Negative error in log(flux)
+5. Positive error in log(flux)
+6. Photon index of cutoffpl model
+7. Negative error in Photon index
+8. Positive error in Photon index
+9. e-folding energy of the exponential rolloff 
+10. Negative error in e-folding energy
+11. Positive error in e-folding energy
+12. Line energy of CRSF1 
+13. Negative error in energy of CRSF1
+14. Positive error in energy of CRSF1
+15. line width (sigma) of CRSF1 
+16. Negative error in line width of CRSF1
+17. Positive error in line width of CRSF1
+18. Optical depth at line center of CRSF1 
+19. Negative error in optical depth of CRSF1 
+20. Positive error in optical depth of CRSF1 
+21. Line energy of CRSF2 
+22. Negative error in energy of CRSF2
+23. Positive error in energy of CRSF2
+24. line width (sigma) of CRSF2 
+25. Negative error in line width of CRSF2
+26. Positive error in line width of CRSF2
+27. Optical depth at line center of CRSF2 
+28. Negative error in optical depth of CRSF2 
+29. Positive error in optical depth of CRSF2 
